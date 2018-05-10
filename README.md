@@ -34,5 +34,5 @@ If you encounter an error of like [this](https://github.com/vishnubob/python-mid
 
 ```
 pip3 install git+https://github.com/vishnubob/python-midi@feature/python3
-'''
+```
 
